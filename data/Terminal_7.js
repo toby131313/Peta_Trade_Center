@@ -1,0 +1,1 @@
+var json_Terminal_7 = {"type":"FeatureCollection","name":"Terminal_7","crs":{"type":"name","properties":{"name":"urn:ogc:def:crs:OGC:1.3:CRS84"}},"features":[{"type":"Feature","properties":{"Name":"Terminal Tirtonadi","Foto":"D:\\WebGIS SIGT\\PNG\\terminal (6).jpeg.jpg"},"geometry":{"type":"Point","coordinates":[110.818540239000072,-7.551417000999948]}}]}
